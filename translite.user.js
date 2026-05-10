@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微软自动翻译
 // @namespace    microsoft-auto-zh-hans-inline
-// @version      1.7.4
+// @version      1.7.5
 // @description  基于 Microsoft Translator 的轻量网页自动翻译脚本，自动翻译为简体中文。
 // @homepageURL  https://github.com/EclipseWhisper/TransLite
 // @supportURL   https://github.com/EclipseWhisper/TransLite/issues
